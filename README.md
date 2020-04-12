@@ -8,4 +8,4 @@
 4. Before running the program Adjust.py. The lines 13 and 14 need to input your real data and the fig storage location. The lines 18 and 
    21 need to input the areas of the numbers of samples analyzed. The line 21 need to input analyzed influencing factors. Method parameters
    can be adjusted in line 32.
-5. Email 250127694@qq.com with any questions or suggestions, thank you.
+5. Email zhzhch88@163.com with any questions or suggestions, thank you.
